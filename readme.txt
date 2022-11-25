@@ -36,3 +36,7 @@ Clone project from git repo
 open project in Intellij
 Run below command in terminal
 mvn clean test
+
+Limitations of framework
+========================
+Docker not implemented 
